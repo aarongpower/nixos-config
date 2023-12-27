@@ -9,7 +9,7 @@
     [ 
       <home-manager/nixos>
       ./hardware-configuration.nix
-      ./aaron-home.nix  # Import the separate Home Manager configuration
+      ./home.nix  # Import the separate Home Manager configuration
     ];
 
   # Bootloader.
